@@ -5,6 +5,7 @@ theme: minima
 twitter_username: fatiao
 github_username:  bh1rio
 rss: rss
+show_excerpts: true
 minima:
   skin: class
 
