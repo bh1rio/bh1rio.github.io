@@ -9,3 +9,6 @@ minima:
 
 plugins:
  - jekyll-feed
+
+ # _pages
+include: ['_pages']
