@@ -1,7 +1,12 @@
 title: 乐趣为王
 description: 在Github Pages上的新Blog
-remote_theme: "jekyll/minima@1e8a445"
 markdown: GFM
+theme: minima
+github_username:  bh1rio
+rss: rss
 
 minima:
   skin: class
+
+plugins:
+ - jekyll-feed
