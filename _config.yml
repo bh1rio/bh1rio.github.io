@@ -3,7 +3,6 @@ description: 在Github Pages上的新Blog
 markdown: GFM
 theme: minima
 github_username:  bh1rio
-rss: rss
 
 minima:
   skin: class
