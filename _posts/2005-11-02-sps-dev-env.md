@@ -1,5 +1,5 @@
 ---
-title: "[整理]说说开发环境的建立"
+title: "说说开发环境的建立"
 date: 2005-11-02
 layout: post
 categories: dotnet VM

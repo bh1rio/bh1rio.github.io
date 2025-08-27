@@ -1,10 +1,12 @@
 ---
-title: "[整理]SharePoint Portal Administration异常事件的处理"
+title: "SharePoint Portal Administration异常事件的处理"
 date: 2005-11-03
 layout: post
 categories: SharePoint
 tags: SharePoint
 ---
+
+一次SharePoint Portal Administration异常事件的处理的过程。
 
 * 场景：
 

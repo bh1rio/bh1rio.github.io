@@ -1,10 +1,12 @@
 ---
-title: "[整理]更换SPS的数据库的方法"
+title: "更换SPS的数据库的方法"
 date: 2005-11-01
 layout: post
 categories: SharePoint
 tags: SharePoint
 ---
+
+记录一次更换SPS的数据库的方法。
 
 * 场景：
   
