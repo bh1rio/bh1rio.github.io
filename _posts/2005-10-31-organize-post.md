@@ -8,4 +8,4 @@ tags: FreeBSD dotnet mono
 
 今天先把上传一个图片吧，中间的人王洪超，右面的人是衣明志
 
-![王洪超和衣明志](/images/2010/01/DSCN0669.jpg)
+![王洪超和衣明志](/images/2010/04/DSCN0669.jpg)
