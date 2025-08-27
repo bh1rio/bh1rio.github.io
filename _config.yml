@@ -2,7 +2,7 @@ title: 乐趣为王
 description: 博客三世
 url: https://just4fun.cn
 base: 
-permalink: date
+permalink: /:year/:month/:day/:title:output_ext
 markdown: GFM
 theme: minima
 twitter_username: fatiao
