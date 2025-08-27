@@ -1,6 +1,6 @@
 ---
 title: "更换SPS的数据库的方法"
-date: 2005-11-01
+date: 2005-11-01 15:37:00
 layout: post
 categories: SharePoint
 tags: SharePoint

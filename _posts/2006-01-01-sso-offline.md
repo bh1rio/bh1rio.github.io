@@ -1,9 +1,9 @@
 ---
 title: "SSO的假脱机问题解决"
-date: 2006-01-01
+date: 2006-01-01 13:03:00
 layout: post
 categories: SharePoint
-tags: SharePoint
+tags: SharePoint SSO
 ---
 
 前两天SPS的数据库服务器坏了，数据被迁移到了备用数据库。这两天把原来在SPS上做的应用都检查了一遍，发现一个使用SSO的Webpart不能正常工作了，表现就是SSO不能正常取出数据，成脱机状。

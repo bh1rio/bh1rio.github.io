@@ -1,6 +1,6 @@
 ---
 title: "变更SPS2003的数据库服务器"
-date: 2006-01-01
+date: 2006-01-01 13:00:00
 layout: post
 categories: SharePoint
 tags: SharePoint

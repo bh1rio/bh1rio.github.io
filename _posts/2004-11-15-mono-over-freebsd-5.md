@@ -1,6 +1,6 @@
 ---
 title: "Mono于FreeBSD上的试用（5）"
-date: 2004-11-15
+date: 2004-11-15 15:33:00
 layout: post
 categories: FreeBSD dotnet mono
 tags: FreeBSD dotnet mono

@@ -1,8 +1,8 @@
 ---
 title: "身份验证常用正则表达式"
-date: 2005-12-28
+date: 2005-12-28 16:26:00
 layout: post
-categories: 
+categories: 未分类
 tags: 
 ---
 

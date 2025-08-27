@@ -1,9 +1,9 @@
 ---
 title: "整理Blog是一件非常累的工作"
-date: 2005-10-31
+date: 2005-10-31 15:35:00
 layout: post
-categories: FreeBSD dotnet mono
-tags: FreeBSD dotnet mono
+categories: 未分类
+tags: 
 ---
 
 今天先把上传一个图片吧，中间的人王洪超，右面的人是衣明志

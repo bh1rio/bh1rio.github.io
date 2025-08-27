@@ -1,8 +1,8 @@
 ---
 title: "数据机房的管理制度"
-date: 2005-12-27
+date: 2005-12-27 16:23:00
 layout: post
-categories: 
+categories: 未分类
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "vcs & vwd 2005 express试用（1）"
-date: 2004-07-10
+date: 2004-07-10 15:03:00
 layout: post
 categories: dotnet
 tags: dotnet

@@ -1,6 +1,6 @@
 ---
 title: "dotNet Framework 2的尴尬"
-date: 2004-07-05
+date: 2004-07-05 14:57:00
 layout: post
 categories: dotnet
 tags: dotnet

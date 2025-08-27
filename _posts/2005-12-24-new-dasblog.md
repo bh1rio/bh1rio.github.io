@@ -1,8 +1,8 @@
 ---
 title: "安装了新的dasBlog"
-date: 2005-12-24
+date: 2005-12-24 16:06:00
 layout: post
-categories: 
+categories: 未分类
 tags: 
 ---
 

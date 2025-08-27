@@ -1,8 +1,8 @@
 ---
 title: "原来的Blog已经整理完成了"
-date: 2005-12-26
+date: 2005-12-26 16:18:00
 layout: post
-categories: 
+categories: 未分类
 tags: 
 ---
 

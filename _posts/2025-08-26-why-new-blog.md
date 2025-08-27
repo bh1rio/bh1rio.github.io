@@ -2,6 +2,8 @@
 title: "为什么要把Blog迁移到Github Pages来"
 date: 2025-08-26
 layout: post
+categories: 未分类
+tags: 
 ---
 
 今天算是把Github Pages的Blog搭起来了，虽然还需要优化，但是已经可以往里面填东西了。

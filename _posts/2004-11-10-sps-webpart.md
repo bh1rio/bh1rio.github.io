@@ -1,6 +1,6 @@
 ---
 title: "SPS门户首页的Web控件（1）"
-date: 2004-11-10
+date: 2004-11-10 15:30:00
 layout: post
 categories: SharePoint
 tags: SharePoint

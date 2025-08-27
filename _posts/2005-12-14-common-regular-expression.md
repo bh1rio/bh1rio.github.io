@@ -1,8 +1,8 @@
 ---
 title: "17种常用正则表达式"
-date: 2005-12-14
+date: 2005-12-14 16:03:00
 layout: post
-categories: 
+categories: 未分类
 tags: 
 ---
 
