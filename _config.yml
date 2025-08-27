@@ -1,5 +1,8 @@
 title: 乐趣为王
-description: 纯静态版Blog
+description: 博客三世
+website: https://just4fun.cn
+basewebsite: 
+permalink: date
 markdown: GFM
 theme: minima
 twitter_username: fatiao
