@@ -21,16 +21,20 @@ tags:
 
 刚才还发现一个意外之喜，Github Pages自动给配上了SSL证书，挺好。
 
-至于为什么是博客五世，得从我写Blog开始说起。
+至于为什么是博客八世，得从我写Blog开始说起。 这段反复写了好几次，实在是回忆不清楚了。
 
-我大概是2004年开始写blog，在之前想写不知道写到哪里。
+第一世应该是在aspcool网站的多人blog上，貌似是.Text的代码。上次blog搬家时回忆，aspcool的飞鹰还在做比特币算力出租，现在却卖保险了。可叹。
 
-第一次写Blog是在blog.aspcool.com，aspcool站长飞鹰是我在古城热线的茶秀论坛结识的开发者网友，那时流行多人Blog，飞鹰要求我去常驻。于是我发了第一个Blog。根据2006年5月13日的博客记录，aspcool上面在2004年一共写过13篇。
+第二世应该是在2004年，宿舍接了ADSL，机器上装了个oblog。从aspcool上迁移了13篇。印象中oblog是威海叶开写的。在威海那两年，还去他公司好几次。
 
-第一个自己的Blog也差不多是那时候在自己家的机器上搭的。那时候家里的机器上是Windows，ADSL还都是公网IP，就用oblog搭了第一个Blog。这个是博客一世。
+第三世应该是在2006年，换成了dasBlog。dasBlog算是一个全功能的Blog程序，trackback之类都支持了。
 
-博客二世是用的dasBlog，大概是2005年10月换过来的。oblog好像不更新了，和当时流行的博客程序相比也缺少一些看上去不错的功能，就直接换了过来。
+第四世是2008年换到了Windows SharePoint Services 3.0上，是因为其支持Windows Live Writer离线写作。同时还是SharePoint MVP的缘故。
 
-博客三世应该是基于WSS 3(Windows SharePoint Services 3.0)的Blog模块。从Blog的记录看，是在2008年的5月的时候。之前已经用SharePoint的Wiki模块做了一个SharePointWiki网站。
+第五世是因为实在受不了家里ADSL总是断断续续了，正好朋友托管了买了个VPS，就在他机器上部署了个BlogEnginee.NET。
 
-博客四世就是wordpress这版。
+第六世是2010年的时候，哥们的VPS不续了，于是在香港找了个支持WordPress的PHP空间，部署了第一个WordPress。这次迁移的比较顺利，因为BlogEnginee.NET到WordPress有迁移工具。
+
+第七世是2020年9月的时候，因为有个梯子，于是从香港的空间迁移到了日本的梯子。
+
+现在是第八世。
