@@ -2,8 +2,8 @@
 layout: post
 title: OMV5安装extras插件后性能统计图片无数据问题的解决
 date: 2021-04-16 01:38:46
-categories: Linux
-tags: nas omv
+categories: 技术
+tags: NAS OMV Linux
 ---
 
 最近把蜗牛星际矿渣不知道为啥不知道同时4块12T，于是把系统换成了OMV5，但是用脚本装完了omv5-extras插件以后，系统信息->性能统计 里面的图片全成空的了。由于OMV用的少，5的资料也少，不知道从什么地方下手解决。

@@ -2,7 +2,7 @@
 layout: post
 title: Pomelo.EntityFrameworkCore.MySql和Boolean类型
 date: 2021-08-27 00:52:51 
-categories: dotnet
+categories: 技术
 tags: dotnet
 ---
 

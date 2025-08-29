@@ -2,7 +2,7 @@
 title: "你好mono"
 date: 2004-07-07 15:00:00
 layout: post
-categories: dotnet mono
+categories: 技术
 tags: dotnet mono
 ---
 

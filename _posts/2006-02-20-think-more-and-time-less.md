@@ -2,7 +2,7 @@
 layout: post
 title: 想法很多，时间和金钱很少
 date: 2006-02-20 13:51:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

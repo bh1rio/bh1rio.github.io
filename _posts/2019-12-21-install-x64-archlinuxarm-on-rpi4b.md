@@ -2,8 +2,8 @@
 layout: post
 title: 树莓派4上的64位Archlinux
 date: 2019-12-21 06:47:28
-categories: ARM Box Linux
-tags: Archlinux RaspberryPi
+categories: 技术
+tags: Archlinux RaspberryPi ARM Box Linux
 ---
 
 前两天终于咬牙跺脚收了同伴科技的X825，这是因为树莓派4终于支持了USB3.0，能基本把硬盘的性能跑出来了。顺便研究了一下，现在树莓派4上面的64位Linux，基本上可以确定现在树莓派4可以当做小型服务器来耍了。

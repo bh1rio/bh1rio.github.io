@@ -2,7 +2,7 @@
 layout: post
 title: 数据之美
 date: 2006-04-12 15:09:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

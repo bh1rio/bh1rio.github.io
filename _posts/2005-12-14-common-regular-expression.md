@@ -2,8 +2,8 @@
 title: "17种常用正则表达式"
 date: 2005-12-14 16:03:00
 layout: post
-categories: 未分类
-tags: 
+categories: 技术
+tags: RegEx
 ---
 
 正则表达式是一个好东西，但是一般情况下，我们需要验证的内容少之又少。

@@ -2,8 +2,8 @@
 layout: post
 title: 小NAS系统评测
 date: 2019-04-16 10:55:10
-categories: 未分类
-tags: nas
+categories: 技术
+tags: NAS
 ---
 
 最近因为收了两个星级蜗牛的小NAS机器，计划一个上开源的NAS系统，一个上黑QNAP体会一下NAS+HTPC，所以对开源的NAS系统做了一个对比评测。

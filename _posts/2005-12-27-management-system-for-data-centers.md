@@ -2,7 +2,7 @@
 title: "数据机房的管理制度"
 date: 2005-12-27 16:23:00
 layout: post
-categories: 未分类
+categories: 技术
 tags: 
 ---
 

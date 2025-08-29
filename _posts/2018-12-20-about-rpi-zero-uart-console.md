@@ -2,8 +2,8 @@
 layout: post
 title: 关于树莓派Raspberry Pi Zero W、3B、3B+使用串口控制台的问题
 date: 2018-12-20 10:51:53
-categories: RaspberryPi
-tags: Archlinux
+categories: 技术
+tags: Archlinux RaspberryPi
 ---
 
 收了一个Zero WH，外加一个UPS Hat。接上以后，发现putty使用串口无法登录，于是在网上查来查去，最后搞定。记录一下。

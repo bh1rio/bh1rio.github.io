@@ -2,7 +2,7 @@
 layout: post
 title: 迁移docker方式安装的gitlab-ce
 date: 2018-04-10 10:55:40
-categories: Docker Git
+categories: 技术
 tags: Docker Git
 ---
 

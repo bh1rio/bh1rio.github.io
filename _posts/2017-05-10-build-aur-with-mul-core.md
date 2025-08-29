@@ -2,8 +2,8 @@
 layout: post
 title: 使用多处理器编译AUR
 date: 2017-05-10 06:16:20
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 archlinux用aur编译的时候，根据top看，多处理器没有用起来，于是研究了一下，发现可以修改/etc/makepkg.conf来修改make的环境变量，启用多处理。具体如下：

@@ -2,7 +2,7 @@
 layout: post
 title: ADSL猫居然可以自愈？
 date: 2006-04-17 15:20:00
-categories: 未分类
+categories: 博客
 tags: 
 ---
 

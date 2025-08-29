@@ -2,7 +2,7 @@
 layout: post
 title: mojoPortal远比想象的强大
 date: 2006-04-01 14:49:00
-categories: aspnet
+categories: 技术
 tags: aspnet
 ---
 

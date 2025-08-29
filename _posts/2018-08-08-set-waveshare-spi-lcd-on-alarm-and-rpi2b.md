@@ -2,8 +2,8 @@
 layout: post
 title: 微雪的SPI液晶屏在ArchlinuxARM上的设置
 date: 2018-08-08 01:21:15
-categories: ARM Box Linux RaspberryPi
-tags: Archlinux ARM RaspberryPi
+categories: 技术
+tags: Archlinux ARM RaspberryPi Box Linux
 ---
 我之前的一堆树莓派都找不到了，但是翻出来了一个带微雪3.5寸SPI液晶屏的B+，有点古董。正好前段时候收了一个HDMI的3.5寸液晶屏，顺手对比一下，再写一个配置教程。
 

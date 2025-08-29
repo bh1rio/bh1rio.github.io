@@ -2,8 +2,8 @@
 layout: post
 title: dotnet core点滴:创建asp.net core项目
 date: 2018-07-30 09:56:22
-categories: dotnet
-tags: dotnet
+categories: 技术
+tags: dotnet aspnet
 ---
 
 1. `dotnet new webapp –o aspnetcoreapp`

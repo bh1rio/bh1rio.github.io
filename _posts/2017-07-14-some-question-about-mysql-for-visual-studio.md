@@ -2,8 +2,8 @@
 layout: post
 title: 使用MySQL for Visual Studio创建EF模型的注意事项
 date: 2017-07-14 07:23:28
-categories: dotnet MySQL VisualStudio
-tags: MySQL VisualStudio
+categories: 技术
+tags: MySQL VisualStudio dotnet
 ---
 
 几个注意事项。

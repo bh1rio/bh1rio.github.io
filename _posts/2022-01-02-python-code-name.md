@@ -2,8 +2,8 @@
 layout: post
 title: 慎重选择python源代码文件的名字
 date: 2022-01-02 04:53:21 
-categories: python
-tags: python
+categories: 技术
+tags: Python
 ---
 
 这两天在看matplotlib的文档，发现在文档中最简单的显示其版本的基本例子都不跑不通，显示如下错误：

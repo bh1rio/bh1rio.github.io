@@ -2,7 +2,7 @@
 layout: post
 title: Blog休息了半天
 date: 2006-04-15 15:14:00
-categories: 未分类
+categories: 博客
 tags: 
 ---
 

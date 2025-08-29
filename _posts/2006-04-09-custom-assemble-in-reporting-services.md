@@ -2,7 +2,7 @@
 layout: post
 title: 在报表服务当中使用定制程序集
 date: 2006-04-09 15:05:00
-categories: SQLServer
+categories: 技术
 tags: ReportingServices SQLServer
 ---
 报表服务允许在报表当中内嵌代码，也允许报表引用定制的程序集。内嵌代码要求是VB.NET编写的代码，而引用的定制程序集没有限制，在codeproject上面甚至看到有人调用包装了COM的定制程序集。

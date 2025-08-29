@@ -2,8 +2,8 @@
 layout: post
 title: 制作Archlinux32的docker镜像(image)
 date: 2017-11-23 02:53:18
-categories: Docker Linux
-tags: Archlinux Docker i686
+categories: 技术
+tags: Archlinux Docker i686 Linux
 ---
 
 docker hub里面的archlinux大部分是archlinux支持i686时期的镜像，目前archlinux不支持i686以后，这些镜像估计就不再支持i686了。我看了一些x86_64的镜像制作脚本，相当多的一部分都是直接用的其rootfs的tar来制作的，只有少数几种是直接从pacman获取包制作rootfs，挑了两种大牌的，如下：

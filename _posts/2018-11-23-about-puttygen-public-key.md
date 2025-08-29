@@ -2,8 +2,8 @@
 layout: post
 title: 关于PuTTYgen生成的公钥
 date: 2018-11-23 09:29:38 -0000
-categories: 未分类
-tags: 
+categories: 技术
+tags: ssh
 ---
 
 网上有介绍使用非对称密钥登录SSH的文章会说PuTTY生成的公钥，对SSH兼容不好。近期研究发现，问题在于PuTTYgen生成的公钥直接保存的格式和其文本框中的格式不一样。

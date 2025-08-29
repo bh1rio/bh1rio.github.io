@@ -2,8 +2,8 @@
 layout: post
 title: 从USB硬盘启动树莓派4B
 date: 2021-12-21 08:11:57
-categories: ARM Linux RaspberryPi
-tags: Archlinux ARM RaspberryPi Raspbian
+categories: 技术
+tags: Archlinux ARM RaspberryPi Raspbian Linux
 ---
 
 引用1：https://gist.github.com/XSystem252/d274cd0af836a72ff42d590d59647928

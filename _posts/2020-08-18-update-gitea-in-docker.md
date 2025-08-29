@@ -2,8 +2,8 @@
 layout: post
 title: 关于通过Docker部署的gitea的升级
 date: 2020-08-18 07:43:44
-categories: Docker
-tags: Git
+categories: 技术
+tags: Git Docker Gitea
 ---
 
 最早以前用gitlab，但是太耗资源了。换了gogs，发现总不更新。最后换了gitea。

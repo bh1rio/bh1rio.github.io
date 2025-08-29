@@ -2,7 +2,7 @@
 title: "说说Yet Another Forum的域整合验证"
 date: 2004-11-05 15:28:00
 layout: post
-categories: aspnet
+categories: 技术
 tags: aspnet
 ---
 

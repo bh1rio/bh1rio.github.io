@@ -2,7 +2,7 @@
 title: "SharePoint Portal Administration异常事件的处理"
 date: 2005-11-03 15:44:00
 layout: post
-categories: SharePoint
+categories: 技术
 tags: SharePoint
 ---
 

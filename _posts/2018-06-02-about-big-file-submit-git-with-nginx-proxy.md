@@ -2,7 +2,7 @@
 layout: post
 title: 关于通过https提交git内容过大
 date: 2018-06-02 08:54:17
-categories: Git
+categories: 技术
 tags: Git
 ---
 

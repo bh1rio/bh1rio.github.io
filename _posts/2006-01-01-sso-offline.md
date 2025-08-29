@@ -2,7 +2,7 @@
 title: "SSO的假脱机问题解决"
 date: 2006-01-01 13:03:00
 layout: post
-categories: SharePoint
+categories: 技术
 tags: SharePoint SSO
 ---
 

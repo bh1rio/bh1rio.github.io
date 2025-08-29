@@ -2,7 +2,7 @@
 layout: post
 title: '[引用]Oracle vs 热水器'
 date: 2006-01-02 13:12:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 title: "ASP.NET通过使用Membership管理用户(1):前言"
 date: 2005-12-26 16:21:00
 layout: post
-categories: aspnet
+categories: 技术技术
 tags: aspnet
 ---
 

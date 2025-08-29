@@ -2,7 +2,7 @@
 title: "说说开发环境的建立"
 date: 2005-11-02 15:39:00
 layout: post
-categories: dotnet VM
+categories: 技术
 tags: dotnet VM
 ---
 

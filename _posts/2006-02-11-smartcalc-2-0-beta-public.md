@@ -2,7 +2,7 @@
 layout: post
 title: SmartCalc 2.0 Beta 推出
 date: 2006-02-11 13:49:00
-categories: 未分类
+categories: 呓语
 tags: SmartPhone WindowsMobile
 ---
 

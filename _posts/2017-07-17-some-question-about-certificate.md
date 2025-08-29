@@ -2,8 +2,8 @@
 layout: post
 title: 关于服务器数字证书的几个问题
 date: 2017-07-17 07:55:04
-categories: 未分类
-tags: 
+categories: 技术
+tags: cert
 ---
 
 1. 数字证书的一般流程

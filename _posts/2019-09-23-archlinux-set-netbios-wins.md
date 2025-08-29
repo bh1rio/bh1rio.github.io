@@ -2,8 +2,8 @@
 layout: post
 title: 给ArchLinux配置NetBIOS/WINS协议的hostname解析
 date: 2019-09-23 06:57:35
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 这个需求的背景是，博主使用树莓派作为开发服务器，使用windows环境内做客户端完成开发。树莓派在连接不同的网络的时候，动态获取的IP每一次都变化，在代码中动态调整比较烦人。如果能支持NetBIOS的话，那么就可以直接通过主机名，在不同的网络环境中都使用名字来访问树莓派。

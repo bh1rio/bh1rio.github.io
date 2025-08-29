@@ -2,8 +2,8 @@
 layout: post
 title: Archlinux安装阶段的静态IP修改
 date: 2020-07-24 06:15:52
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux IP
 ---
 
 办公室的网络需要授权才能访问互联网，server有不需要授权的网段，但是archlinux的iso启动的时候默认是dhcp获取的ip，这就需要将ip改为不需要授权的网段。研究了archlinux的wiki，找到了修改方法。

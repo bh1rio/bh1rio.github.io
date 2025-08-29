@@ -2,8 +2,8 @@
 layout: post
 title: 解决在使用AUR编译pgadmin4的安装包的时候遇到找不到公钥的问题
 date: 2017-05-02 06:57:53
-categories: 未分类
-tags: 
+categories: 技术
+tags: Archlinux Linux
 ---
 
 提示RSA的ID为某个值的公钥找不到。这个时候，需要用pgp命令下载公钥。

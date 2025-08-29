@@ -2,7 +2,7 @@
 layout: post
 title: 又一款全键盘的WM5的SmartPhone
 date: 2006-03-03 14:26:00
-categories: WindowsMobile
+categories: 呓语
 tags: SmartPhone WindowsMobile
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 也说报表服务遇见了Sybase
 date: 2006-04-15 15:16:00
-categories: SQLServer
+categories: 技术
 tags: ReportingServices SQLServer Sybase
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: 关于此次Archlinux的Base安装包组变化带来的影响
 date: 2019-10-23 05:51:41
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 按照Archlinux的新闻稿，在2019年10月6日更新了Base安装包组，这里面只留下了必要的软件包，https://www.archlinux.org/news/base-group-replaced-by-mandatory-base-package-manual-intervention-required/

@@ -2,7 +2,7 @@
 layout: post
 title: 额外域控制器上的DNS如何配置
 date: 2006-03-02 14:17:00
-categories: AD
+categories: 技术
 tags: AD DNS
 ---
 

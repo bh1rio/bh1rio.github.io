@@ -2,8 +2,8 @@
 layout: post
 title: 开启Docker的远程管理功能
 date: 2017-11-09 07:38:47
-categories: Docker
-tags: 
+categories: 技术
+tags: Docker
 ---
 
 摘录自 https://docs.docker.com/engine/admin/#configure-the-docker-daemon

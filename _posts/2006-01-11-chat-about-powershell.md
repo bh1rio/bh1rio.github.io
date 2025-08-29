@@ -2,7 +2,7 @@
 layout: post
 title: '[翻译]TechNET上关于Monad Shell(MSH)的一次聊天'
 date: 2006-01-11 13:24:00 -0000
-categories: dotnet
+categories: 技术
 tags: PowerShell
 ---
 

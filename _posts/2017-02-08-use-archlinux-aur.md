@@ -2,8 +2,8 @@
 layout: post
 title: 使用ArchLinux的AUR
 date: 2017-02-08 09:09:12
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 Archlinux的AUR里面有很多非官方的软件包，但是需要自己编译，编译前还有很多相应的准备工作。需要先安装base-devel这个安装包的组，然后还要安装git。另外还要准备一个非root的账号，并具备sudo的权限。

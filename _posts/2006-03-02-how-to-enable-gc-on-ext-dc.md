@@ -2,7 +2,7 @@
 layout: post
 title: 额外的域控制器是否都可以升级为GC
 date: 2006-03-02 14:20:00
-categories: AD
+categories: 技术
 tags: AD GC
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: CentOS的firewalld与docker有冲突
 date: 2017-07-25 12:17:48
-categories: Linux
-tags: Docker
+categories: 技术
+tags: Docker Linux
 ---
 
 我这里表现为容器映射到宿主的端口，没有被防火墙保护。防火墙能用，但是报错，如下：

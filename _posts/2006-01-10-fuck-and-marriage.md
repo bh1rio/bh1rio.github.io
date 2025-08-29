@@ -2,7 +2,7 @@
 layout: post
 title: 考证国骂与中国人的婚姻安全感
 date: 2006-01-10 13:20:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

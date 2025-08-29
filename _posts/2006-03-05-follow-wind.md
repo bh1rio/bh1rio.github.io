@@ -2,7 +2,7 @@
 layout: post
 title: 我看到的除了浮躁还是浮躁
 date: 2006-03-05 14:30:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

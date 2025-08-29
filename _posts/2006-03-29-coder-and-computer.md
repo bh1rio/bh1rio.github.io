@@ -2,7 +2,7 @@
 layout: post
 title: 软件从业人员百态和什么是计算机
 date: 2006-03-29 14:44:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

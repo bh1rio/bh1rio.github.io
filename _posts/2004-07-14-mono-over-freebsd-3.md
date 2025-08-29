@@ -2,7 +2,7 @@
 title: "Mono于FreeBSD上的试用（3）"
 date: 2004-07-14 15:06:00
 layout: post
-categories: FreeBSD dotnet mono
+categories: 技术
 tags: FreeBSD dotnet mono
 ---
 

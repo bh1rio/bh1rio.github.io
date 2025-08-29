@@ -2,8 +2,8 @@
 layout: post
 title: 把blog的服务器换了个位置，顺便怀旧
 date: 2020-09-18 07:19:54 -0000
-categories: 未分类
-tags: 
+categories: 博客
+tags: WordPress
 ---
 2010年，在香港租了个虚拟主机，装上了wordpress，把blog从blogengine.net上迁了过来，之前是朋友托管的windows服务器。但是他生意黄摊了，我也得把blog挪出来。再早一年之前，blog是在自己家的windows sharepoint上面。再往前，blog还能追溯到aspcool的服务器，但是这已经是20年以前了。aspcool的站长现在在做比特币算力出租。
 

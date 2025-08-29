@@ -2,7 +2,7 @@
 layout: post
 title: 在Archlinux中使用swapfile
 date: 2018-02-27 15:36:16
-categories: Linux
+categories: 技术
 tags: Linux
 ---
 

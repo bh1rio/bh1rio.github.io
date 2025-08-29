@@ -2,8 +2,8 @@
 layout: post
 title: ArchLinux自2017年3月开始ISO不在支持i686
 date: 2017-02-11 09:47:53
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 1月份刚收了一个带有Raid卡和热插拔笼子的HP瘦客户机，上周刚给他装上2块500G的2.5寸硬盘，做好raid装好Arch，就看到了这个消息。

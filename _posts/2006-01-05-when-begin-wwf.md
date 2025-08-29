@@ -2,7 +2,7 @@
 layout: post
 title: 什么时候开始评估WWF？
 date: 2006-01-05 13:18:00
-categories: WWF
+categories: 技术
 tags: WWF
 ---
 

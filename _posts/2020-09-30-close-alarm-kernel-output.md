@@ -2,8 +2,8 @@
 layout: post
 title: 关闭内核信息输出控制台
 date: 2020-09-30 03:34:11
-categories: ARM Box Linux
-tags: Archlinux ARM Linux
+categories: 技术
+tags: Archlinux ARM Linux Box
 ---
 
 关了内核的audit信息，还是有电压之类的信息在不停的输出，找了raspberry pi官方的文档，说修改config.txt文件的告警级别，但是实测不太管用，于是准备彻底关闭内核信息的输出。

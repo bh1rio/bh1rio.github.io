@@ -2,7 +2,7 @@
 title: "Windows工作流基础平台概览"
 date: 2005-11-28 15:56:00
 layout: post
-categories: WWF
+categories: 技术
 tags: WWF
 ---
 

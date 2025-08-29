@@ -2,8 +2,8 @@
 layout: post
 title: 自动安装Archlinux的脚本
 date: 2017-12-04 16:18:33
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 最近受ArchLinux官方的Dockerfile的启发，做了一个Archlinux的安装脚本，发布在 https://github.com/bh1rio/archlinux-install

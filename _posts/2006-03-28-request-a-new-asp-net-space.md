@@ -2,7 +2,7 @@
 layout: post
 title: 征集免费的asp.net空间
 date: 2006-03-28 14:40:00
-categories: 未分类
+categories: 博客
 tags: 
 ---
 

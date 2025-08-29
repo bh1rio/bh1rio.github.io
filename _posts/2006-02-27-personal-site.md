@@ -2,7 +2,7 @@
 layout: post
 title: 搜索引擎成了个人站点的拯救者！
 date: 2006-02-27 14:00:00
-categories: 未分类
+categories: 博客
 tags: 
 ---
 

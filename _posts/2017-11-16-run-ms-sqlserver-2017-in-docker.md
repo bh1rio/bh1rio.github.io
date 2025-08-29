@@ -2,7 +2,7 @@
 layout: post
 title: 在Docker里面运行MS SQLServer 2017的Linux版本
 date: 2017-11-16 06:50:40
-categories: Docker Linux SQLServer
+categories: 技术
 tags: Docker Linux SQLServer
 ---
 

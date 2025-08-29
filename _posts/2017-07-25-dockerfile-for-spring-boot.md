@@ -2,8 +2,8 @@
 layout: post
 title: 为SpringBoot做了一个Docker的Dockerfile
 date: 2017-07-25 12:08:17
-categories: 未分类
-tags: Docker
+categories: 技术
+tags: Docker SpringBoot Java
 ---
 
 话不多说，帖文件：

@@ -2,8 +2,8 @@
 title: "身份验证常用正则表达式"
 date: 2005-12-28 16:26:00
 layout: post
-categories: 未分类
-tags: 
+categories: 技术
+tags: RegEx
 ---
 
 从起航的Blog上面摘来的，顺便测试一下Trackback。

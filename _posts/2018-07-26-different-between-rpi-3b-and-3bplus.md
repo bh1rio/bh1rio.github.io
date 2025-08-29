@@ -2,7 +2,7 @@
 layout: post
 title: 树莓派3B和3B+目前阶段的主要区别
 date: 2018-07-26 07:49:46
-categories: RaspberryPi
+categories: 技术
 tags: RaspberryPi
 ---
 

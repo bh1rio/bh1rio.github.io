@@ -2,7 +2,7 @@
 layout: post
 title: 关于go get失败的处理
 date: 2018-04-12 03:33:40
-categories: Go
+categories: 技术
 tags: Go
 ---
 

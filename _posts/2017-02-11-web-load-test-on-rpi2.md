@@ -2,8 +2,8 @@
 layout: post
 title: 今天闲的蛋疼给树莓派上nginx的默认页做压力测试
 date: 2017-02-11 11:38:42
-categories: Linux Web
-tags: Archlinux nginx
+categories: 技术
+tags: Archlinux nginx Linux Web
 ---
 
 树莓派2安装最新的ArchLinuxARM，然后安装标准的nginx。压力源使用VS2015中测试项目的WebLoadTest。

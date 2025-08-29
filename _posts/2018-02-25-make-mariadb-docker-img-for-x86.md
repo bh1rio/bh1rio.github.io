@@ -2,7 +2,7 @@
 layout: post
 title: 给i686制作mariadb的docker镜像
 date: 2018-02-25 09:29:32
-categories: Docker Linux MySQL
+categories: 技术
 tags: Docker Linux MySQL
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 给docker中的mongodb开启权限
 date: 2017-12-27 11:34:32
-categories: Docker
+categories: 技术
 tags: Docker MongoDB
 ---
 

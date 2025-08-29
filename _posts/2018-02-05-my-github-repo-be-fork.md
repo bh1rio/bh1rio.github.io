@@ -2,7 +2,7 @@
 layout: post
 title: 有人在github上fork了我写的arch安装脚本
 date: 2018-02-05 01:48:48
-categories: 未分类
+categories: 呓语
 tags: Archlinux
 ---
 

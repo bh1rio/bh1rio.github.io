@@ -2,7 +2,7 @@
 layout: post
 title: 梦寐以求的智能手机
 date: 2006-02-27 14:04:00
-categories: WindowsMobile
+categories: 呓语
 tags: SmartPhone WindowsMobile
 ---
 

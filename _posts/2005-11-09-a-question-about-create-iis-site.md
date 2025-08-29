@@ -2,7 +2,7 @@
 title: "创建使用ASP.NET的IIS虚拟主机必须要注意的一个步骤"
 date: 2005-11-09 15:52:00
 layout: post
-categories: aspnet
+categories: 技术
 tags: aspnet
 ---
 

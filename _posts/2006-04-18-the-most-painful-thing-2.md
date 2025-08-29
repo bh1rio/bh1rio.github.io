@@ -2,7 +2,7 @@
 layout: post
 title: 天下最痛苦的事情（二）
 date: 2006-04-18 15:24:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

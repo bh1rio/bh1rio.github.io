@@ -2,8 +2,8 @@
 layout: post
 title: 在ArchlinuxARM中使用F2FS文件系统
 date: 2018-08-03 02:15:04
-categories: ARM Linux RaspberryPi
-tags: Archlinux
+categories: 技术
+tags: Archlinux ARM Linux RaspberryPi
 ---
 
 做tf的系统（我的系统就是archlinux）需要安装f2fs-tools。

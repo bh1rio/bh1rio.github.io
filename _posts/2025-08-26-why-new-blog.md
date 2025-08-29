@@ -2,7 +2,7 @@
 title: "为什么要把Blog迁移到Github Pages来"
 date: 2025-08-26
 layout: post
-categories: 未分类
+categories: 博客
 tags: 
 ---
 

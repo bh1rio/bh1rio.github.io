@@ -2,8 +2,8 @@
 layout: post
 title: 关于Archlinux下搭建百度PaddleOCR的测试环境
 date: 2021-07-23 10:02:10 
-categories: Linux
-tags: Archlinux OCR python
+categories: 技术
+tags: Archlinux OCR Python
 ---
 
 [原文](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.1/doc/doc_ch/installation.md)推荐使用Dockers镜像，但是我觉得没意思，于是在虚机里面找了一个干净的Archlinux来搞，需要提前给arch里面安装：base-devel，python，python-pip，cython，wget，libglvnd。

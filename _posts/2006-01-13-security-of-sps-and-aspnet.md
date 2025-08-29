@@ -2,7 +2,7 @@
 layout: post
 title: SPS的安全机制与ASP.NET的安全机制还是有区别的
 date: 2006-01-13 13:36:00
-categories: AD SharePoint
+categories: 技术
 tags: AD SharePoint
 ---
 这几天一直写一个在SPS当中修改AD用户密码的Webpart。我向鞠海洋大哥要来了他写的代码，仔细研究了，自己也动手写了一个。但是包括鞠大哥写的和我写的都不用正确运行，总是捕捉到异常信息。不同的是，鞠大哥的代码可以显示用户的displayName属性，而我的显示不了。

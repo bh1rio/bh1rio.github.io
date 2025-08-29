@@ -2,7 +2,7 @@
 title: "站点访问记录"
 date: 2005-12-30 16:26:00
 layout: post
-categories: 
+categories: 博客
 tags: 
 ---
 

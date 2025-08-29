@@ -2,8 +2,8 @@
 layout: post
 title: Transmission的RPC验证
 date: 2020-07-19 10:39:07
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 Transmission的RPC接口很好用，Transmission-Remote-GUI就是玩pt的利器，但是RPC验证不开启的话，会有一些诡异的行为没有文档描述。比如：

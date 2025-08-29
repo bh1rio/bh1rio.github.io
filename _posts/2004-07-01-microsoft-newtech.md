@@ -2,7 +2,7 @@
 title: "2004微软新技术展望大会"
 date: 2004-07-01 14:55:00
 layout: post
-categories: 未分类
+categories: 呓语
 tags:
 ---
 

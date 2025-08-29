@@ -2,7 +2,7 @@
 layout: post
 title: 无聊的春节阿~~~
 date: 2006-01-26 13:44:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

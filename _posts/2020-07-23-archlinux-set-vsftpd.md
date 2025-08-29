@@ -2,8 +2,8 @@
 layout: post
 title: Archlinux安装ftp服务
 date: 2020-07-23 02:29:16
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux FTP
 ---
 
 前两天安装的transmission服务，下载的内容只能通过sftp拿回来。后来发现sftp服务传输效率不高，在需要安全的情景下也还能忍，但是在家里内网的情况下，千兆带宽只跑20%，cpu负载就满了，还是专门配置一个明文的ftp好。

@@ -2,8 +2,8 @@
 layout: post
 title: Archlinux的时间同步
 date: 2020-07-23 02:22:09
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 现在Linux主机的最佳实践是硬件时钟设置为UTC时间，然后设置自己的时区。但是如果是一台之前没有安装过Linux的主机，就会有一个问题，怎么精确设定时间。当然，如果联网的条件下，NTP是最简单的办法。以前这么做都是通过ntpd包带的ntpclient来实现。现在多了一个选择：`systemd-timesyncd`。

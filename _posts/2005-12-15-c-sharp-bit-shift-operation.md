@@ -2,7 +2,7 @@
 title: "C#位移运算只支持整数？"
 date: 2005-12-15 16:05:00
 layout: post
-categories: dotnet
+categories: 技术
 tags: dotnet
 ---
 

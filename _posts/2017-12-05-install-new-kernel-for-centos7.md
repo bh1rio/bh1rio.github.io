@@ -2,8 +2,8 @@
 layout: post
 title: CentOS7安装新内核
 date: 2017-12-05 09:22:08
-categories: Linux
-tags: centos
+categories: 技术
+tags: CentOS Linux
 ---
 
 CentOS的包相对还是很保守，没有新内核，没有新软件，也就没有功能。现在4.14的内核已经进入LTS序列了，CentOS还是3.10的内核，捉急

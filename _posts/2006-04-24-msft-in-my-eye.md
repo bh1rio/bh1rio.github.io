@@ -2,7 +2,7 @@
 layout: post
 title: 冒充微软的工程师...
 date: 2006-04-24 15:25:00
-categories: 未分类
+categories: 呓语
 tags: 
 ---
 

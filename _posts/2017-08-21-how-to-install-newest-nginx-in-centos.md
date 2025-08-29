@@ -2,8 +2,8 @@
 layout: post
 title: 用yum给centos7安装nginx
 date: 2017-08-21 03:27:30
-categories: Linux
-tags: Linux nginx
+categories: 技术
+tags: Linux nginx CentOS
 ---
 
 最近使用阿里云上的centos7的时候，发现直接yum install的nginx版本比较低，鉴于我是新版本强迫症，研究了一下怎么用nginx预编译的包，而不是centos仓库自带的。如下

@@ -2,8 +2,8 @@
 layout: post
 title: netctl开启自动连接wifi
 date: 2018-12-20 12:10:25
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 首先使用wifi-menu连接过一些wifi，这样在/etc/netctl下会有一些链接文件。然后安装wpa-actiond包，再开启netctl-auto@wlan0服务。

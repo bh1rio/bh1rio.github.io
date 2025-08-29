@@ -2,7 +2,7 @@
 layout: post
 title: 申请了新的域名
 date: 2006-03-09 14:40:00
-categories: dotnet
+categories: 博客
 tags: 
 ---
 

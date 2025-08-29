@@ -2,7 +2,7 @@
 layout: post
 title: VSCode自动排版的快捷键
 date: 2017-11-16 08:22:02
-categories: 未分类
+categories: 技术
 tags: VSCode
 ---
 

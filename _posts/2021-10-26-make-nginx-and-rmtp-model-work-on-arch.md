@@ -2,8 +2,8 @@
 layout: post
 title: Arch上配置nginx和其rmtp模块
 date: 2021-10-26 10:37:00
-categories: Linux
-tags: Archlinux nginx
+categories: 技术
+tags: Archlinux nginx Linux
 ---
 
 年初买了一本书[《直播系统开发：基于Nginx与Nginx-rtmp-module》](https://item.jd.com/12518374.html)，最近翻出来研究一下。

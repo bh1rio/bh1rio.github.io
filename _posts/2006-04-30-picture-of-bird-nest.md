@@ -2,7 +2,7 @@
 layout: post
 title: 奥运鸟巢的图片
 date: 2006-04-30 15:32:00
-categories: 未分类
+categories: 生活
 tags: 
 ---
 

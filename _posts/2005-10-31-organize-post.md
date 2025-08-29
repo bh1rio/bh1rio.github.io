@@ -2,7 +2,7 @@
 title: "整理Blog是一件非常累的工作"
 date: 2005-10-31 15:35:00
 layout: post
-categories: 未分类
+categories: 博客
 tags: 
 ---
 

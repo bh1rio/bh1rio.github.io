@@ -2,7 +2,7 @@
 title: "Paint.NET,DotNET实现的一个Photo工具"
 date: 2005-12-14 16:01:00
 layout: post
-categories: dotnet
+categories: 技术
 tags: dotnet
 ---
 

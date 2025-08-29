@@ -2,7 +2,7 @@
 layout: post
 title: 当时用Docker运行GitLab时的非80端口HTTP服务
 date: 2017-11-28 08:29:25
-categories: Docker Git
+categories: 技术
 tags: Docker Git
 ---
 

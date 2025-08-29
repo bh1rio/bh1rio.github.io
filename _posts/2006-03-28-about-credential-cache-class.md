@@ -2,7 +2,7 @@
 layout: post
 title: 对于.net Framework的System.Net下面的CredentialCache类的补充说明
 date: 2006-03-28 14:42:00
-categories: AD aspnet dotnet
+categories: 技术
 tags: dotnet AD aspnet
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: Archlinux官方不再支持i686(x86)以后，老机器怎么办？
 date: 2017-11-17 15:17:40
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 新装机的话，可以从archlinux32.org下载纯32位的安装包。

@@ -2,8 +2,8 @@
 layout: post
 title: ArchLinux笔记本电脑合盖不休眠的方法
 date: 2017-09-03 16:21:44
-categories: Linux
-tags: Archlinux
+categories: 技术
+tags: Archlinux Linux
 ---
 
 找了一个N270处理器的小上网本跑ArchLinux当开发服务器，结果发现合上屏幕就会休眠，于是祭起搜索引擎神器，在ArchLinux的Wiki宝典里面找到了如下的办法：

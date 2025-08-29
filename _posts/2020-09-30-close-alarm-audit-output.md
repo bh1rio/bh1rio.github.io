@@ -2,8 +2,8 @@
 layout: post
 title: 关闭ArchLinuxARM控制台的audit输出
 date: 2020-09-30 02:13:09
-categories: ARM Linux Box
-tags: Archlinux ARM
+categories: 技术
+tags: Archlinux ARM Linux Box
 ---
 
 以前没研究linux写屏，这些输出还无所谓，最近决定研究一下怎么关闭这个输出。
