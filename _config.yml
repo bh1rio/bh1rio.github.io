@@ -15,3 +15,20 @@ minima:
 
  # _pages
 include: ['_pages']
+
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+    - year
+  layouts:
+    category: archive-category
+    tag: archive-tag
+    year: archive-year
+    permalinks:
+      category: '/category/:name/'
+      tag: '/tag/:name/'
+      year: '/:year/'
