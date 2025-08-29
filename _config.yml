@@ -18,6 +18,9 @@ include: ['_pages']
 
 plugins:
   - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
 jekyll-archives:
   enabled:
