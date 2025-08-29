@@ -23,12 +23,12 @@ jekyll-archives:
   enabled:
     - categories
     - tags
-    - year
+    - month
   layouts:
-    category: archive-category
-    tag: archive-tag
-    year: archive-year
-    permalinks:
-      category: '/category/:name/'
-      tag: '/tag/:name/'
-      year: '/:year/'
+    category: category
+    tag: tag
+    month: archive
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+    month: '/:year/:month/'
