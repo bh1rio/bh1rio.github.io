@@ -13,8 +13,8 @@ tags: ARM LAMP Linux MySQL PHP RaspberryPi Apache
 
 [树莓派和Cubieboard对比测试(3) – Synthetic MySQL BenchMark](http://just4fun.cn/?p=609)
 
-|  | Pi | Pi2  
----|---|---  
+|  | Pi | Pi2 |  
+|---|---|---  |
 PHP version | 5.6.6  
 MySQL version | 5.5.5-10.0.17-MariaDB-log  
 Server Software | Apache/2.4.12 (Unix) PHP/5.6.6  
