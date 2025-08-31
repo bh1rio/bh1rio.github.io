@@ -6,27 +6,18 @@ permalink: /doc/make/index.html
 
 # GNU make 手册
 
-This file documents the GNU make utility, which determines automatically which pieces of a large program need to be recompiled, and issues the commands to recompile them.
-
 本文档介绍了GNU make工具，该工具能自动确定大型程序中哪些部分需要重新编译，并发出重新编译它们的命令。
-
-This is Edition 0.77, last updated 26 February 2023, of The GNU Make Manual, for GNU make version 4.4.1.
 
 这是2023年2月26日最后更新的0.77版《GNU Make手册》，适用于GNU make 4.4.1版本。
 
-Copyright © 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023 Free Software Foundation, Inc.
-
 版权所有 © 1988、1989、1990、1991、1992、1993、1994、1995、1996、1997、1998、1999、2000、2002、2003、2004、2005、2006、2007、2008、2009、2010、2011、2012、2013、2014、2015、2016、2017、2018、2019、2020、2021、2022、2023 自由软件基金会公司。
-
-Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, with the Front-Cover Texts being “A GNU Manual,” and with the Back-Cover Texts as in (a) below. A copy of the license is included in the section entitled “GNU Free Documentation License.”
 
 允许在GNU自由文档许可证（版本1.3或自由软件基金会发布的任何更新版本）的条款下复制、分发和/或修改本文档；无不可变章节，封面文字为“A GNU Manual”，封底文字如下文（a）项所述。本许可证的副本包含在标题为“GNU Free Documentation License”的章节中。
 
-(a) The FSF’s Back-Cover Text is: “You have the freedom to copy and modify this GNU manual. Buying copies from the FSF supports it in developing GNU and promoting software freedom.”
-
 (a) 自由软件基金会（FSF）的封底文字为：“您拥有复制和修改本GNU手册的自由。从自由软件基金会购买副本，将支持其开发GNU并促进软件自由。”
 
-Table of Contents 目录
+目录
+
 * [1 make 概述](01-overview-of-make.html)
 * [2 Makefile简介](02-an-introduction-to-makefiles.html)
 * 3 编写Makefile文件
