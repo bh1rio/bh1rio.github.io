@@ -119,6 +119,7 @@ header_pages:
   - archives.html
   - categories.html
   - tags.html
+  - document.md
   - about.html
 
 # Page default value
