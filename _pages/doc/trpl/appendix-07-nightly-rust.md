@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 附录 G：Rust 是如何开发的与 “Nightly Rust”
+permalink: /doc/trpl/appendix-07-nightly-rust.html
 ---
 ## 附录 G：Rust 是如何开发的与 “Nightly Rust”
 

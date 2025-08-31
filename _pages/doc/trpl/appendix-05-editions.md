@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 附录 E：版本
+permalink: /doc/trpl/appendix-05-editions.html
 ---
 ## 附录 E：版本
 

@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 附录 B：运算符与符号
+permalink: /doc/trpl/appendix-02-operators.html
 ---
 ## 附录 B：运算符与符号
 

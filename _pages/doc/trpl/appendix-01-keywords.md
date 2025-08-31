@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 附录 A：关键字
+permalink: /doc/trpl/appendix-01-keywords.html
 ---
 
 ## 附录 A：关键字

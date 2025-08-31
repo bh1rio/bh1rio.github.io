@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 附录 D：实用开发工具
+permalink: /doc/trpl/appendix-04-useful-development-tools.html
 ---
 ## 附录 D：实用开发工具
 

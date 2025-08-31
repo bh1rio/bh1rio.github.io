@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 附录 F：本书译本
+permalink: /doc/trpl/appendix-06-translation.html
 ---
 ## 附录 F：本书译本
 
