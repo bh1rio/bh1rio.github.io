@@ -11,10 +11,10 @@ tags: ARM LAMP Linux MySQL PHP RaspberryPi Apache
 
 |     | Pi  | Pi2  |
 | --- | --- | ---  |  
-| PHP version | 5.6.6 |  
-| MySQL version | 5.5.5-10.0.17-MariaDB-log |  
-| Server Software | Apache/2.4.12 (Unix) PHP/5.6.6 |  
-| Synthetic PHP BenchMark |  
+| PHP version | 5.6.6 ||
+| MySQL version | 5.5.5-10.0.17-MariaDB-log || 
+| Server Software | Apache/2.4.12 (Unix) PHP/5.6.6 ||  
+| Synthetic PHP BenchMark |||  
 test_arithmetic | 0.2261 seconds | 0.1105 seconds  
 test_array_operators | 0.2856 seconds | 0.1700 seconds  
 test_bitwise | 0.0383 seconds | 0.0216 seconds  
