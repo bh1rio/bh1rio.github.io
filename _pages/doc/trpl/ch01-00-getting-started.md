@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 入门指南
+permalink: /doc/trpl/ch01-00-getting-started.html
 ---
 # 入门指南
 

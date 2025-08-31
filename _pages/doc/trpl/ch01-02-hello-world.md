@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: Hello, World!
+permalink: /doc/trpl/ch01-02-hello-world.html
 ---
 ## Hello, World!
 
