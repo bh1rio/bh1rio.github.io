@@ -1,6 +1,6 @@
 ---
 title: "再逛王府井新华书店"
-date: 2025-08-26
+date: 2025-08-28
 layout: post
 categories: 呓语
 tags: 
