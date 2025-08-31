@@ -1,7 +1,7 @@
 ---
 layout: framework
 title: 小部件
-permalink: /doc/wxpython/introduction.html
+permalink: /doc/wxpython/widgets.html
 ---
 
 # 小部件
