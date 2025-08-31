@@ -186,3 +186,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+include:
+  - _pages
