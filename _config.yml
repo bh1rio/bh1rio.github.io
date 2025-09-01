@@ -180,7 +180,7 @@ paginate: 10
 markdown: kramdown
 karkdown:
   input: GFM
-#  syntax_highlighter: rouge
+  syntax_highlighter: rouge
 
 plugins:
   - jekyll-feed
