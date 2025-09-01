@@ -1,7 +1,7 @@
 ---
 layout: framework
 title: 2 Makefile简介
-permalink: /doc/make/02-an-introduction-to-makefiles.html
+permalink: /doc/make/ch02-00-an-introduction-to-makefiles.html
 ---
 
 # 2 An Introduction to Makefiles
