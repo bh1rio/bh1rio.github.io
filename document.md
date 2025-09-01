@@ -15,4 +15,4 @@ title: 文档
 
 ## Rust
 
-* [Rust 程序设计语言](/doc/trpl/index.html)
+* [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/){:target="_blank"}
