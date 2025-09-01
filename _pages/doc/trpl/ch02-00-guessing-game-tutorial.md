@@ -67,8 +67,6 @@ Hello, world!
 
 猜数字程序的第一部分请求和处理用户输入，并检查输入是否符合预期的格式。首先，我们会允许玩家输入一个猜测。在 _src/main.rs_ 中输入示例 2-1 中的代码。
 
-<figure class="listing">
-
 <span class="file-name">文件名：src/main.rs</span>
 
 ```rust
@@ -90,8 +88,6 @@ fn main() {
 ```
 
 <figcaption>示例 2-1：获取用户猜测并打印的代码</figcaption>
-
-</figure>
 
 这些代码包含很多信息，我们一行一行地讲解。为了获取用户输入并打印结果作为输出，我们需要将 `io` 输入/输出库引入当前作用域。`io` 库来自于标准库，也被称为 `std`：
 
