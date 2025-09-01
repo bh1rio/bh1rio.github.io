@@ -10,7 +10,7 @@ permalink: /doc/make/ch02-02-simple-makefile.html
 
 在这个示例中，所有的C文件都包含defs.h，但只有那些定义编辑命令的文件包含command.h，而只有更改编辑器缓冲区的底层文件才包含buffer.h。
 
-```make
+```makefile
 edit : main.o kbd.o command.o display.o \
        insert.o search.o files.o utils.o
         cc -o edit main.o kbd.o command.o display.o \
