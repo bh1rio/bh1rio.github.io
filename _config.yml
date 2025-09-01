@@ -176,11 +176,11 @@ paginate: 10
 
 # Build settings
 # highlighter: none
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 karkdown:
   input: GFM
-#  syntax_highlighter: rouge
+  syntax_highlighter: rouge
 
 plugins:
   - jekyll-feed
