@@ -1,25 +1,8 @@
 ---
 layout: framework
-title: 1 make 概述
-permalink: /doc/make/01-overview-of-make.html
+title: 1.2 问题与程序缺陷
+permalink: /doc/make/ch01-02-bugs.html
 ---
-
-# 1 make 概述
-
-make工具会自动确定大型程序中哪些部分需要重新编译，并发出重新编译它们的命令。本手册介绍了GNU make，它由理查德·斯托曼和罗兰·麦格拉思实现。3.76版本之后的开发工作由保罗·D·史密斯负责。
-
-GNU make 遵循 *IEEE 标准 1003.2-1992*（POSIX.2）的第 6.2 节。
-
-我们的示例展示了C程序，因为它们最为常见，但你可以将make用于任何其编译器可通过shell命令运行的编程语言。实际上，make并不局限于程序。你可以用它来描述任何任务，只要在这些任务中，当某些文件发生变化时，另一些文件必须自动从这些变化的文件更新而来。
-
-## 1.1 如何阅读本手册
-
-如果你是 make 的新手，或者正在寻找一个一般性的介绍，那么阅读每章的前几节即可，跳过后面的章节。在每一章中，前几节包含入门或一般性的信息，而后几节则包含专业或技术性的信息。
-例外情况是第二章[《Makefile简介》](02-an-introduction-to-makefiles.html)，整章内容都是入门级的。
-
-如果你熟悉其他make程序，请参阅[GNU make的特性](14-features-of-gnu-make.html)，其中列出了GNU make所具备的增强功能，以及[不兼容性和缺失功能](15-incompatibilities-and-missing-features.html)，其中说明了GNU make缺少而其他程序具备的少数功能。
-
-如需快速概览，请参阅[选项摘要]()、[快速参考](appendix-a-quick-reference.html)以及[特殊内置目标名称]()。
 
 ## 1.2 问题与程序缺陷
 

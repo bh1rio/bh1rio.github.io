@@ -18,8 +18,17 @@ permalink: /doc/make/index.html
 
 目录
 
-* [1 make 概述](01-overview-of-make.html)
-* [2 Makefile简介](02-an-introduction-to-makefiles.html)
+- [1 make 概述](ch01-00-overview-of-make.html)
+  - [1.1 如何阅读本手册](ch01-01-reading.html)
+  - [1.2 问题与程序缺陷](ch01-02-bugs.html)
+- [2 Makefile简介](ch02-00-an-introduction-to-makefiles.html)
+  - [2.1 What a Rule Looks Like](ch02-01-rule-introduction.html)
+  - [2.2 A Simple Makefile](ch02-02-simple-makefile.html)
+  - [2.3 How make Processes a Makefile](ch02-03-how-make-works.html)
+  - [2.4 Variables Make Makefiles Simpler](ch02-04-variables-simplify.html)
+  - [2.5 Letting make Deduce the Recipes](ch02-05-make-deduces.html)
+  - [2.6 Another Style of Makefile](ch02-06-combine-by-prerequisite.html)
+  - [2.7 Rules for Cleaning the Directory](ch02-07-cheanup.html)
 * 3 编写Makefile文件
 * 4 编写规则
 * 5 Writing Recipes in Rules
