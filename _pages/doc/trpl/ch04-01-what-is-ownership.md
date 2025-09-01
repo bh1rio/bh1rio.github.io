@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 什么是所有权？
+permalink: /doc/trpl/ch04-01-what-is-ownership.html
 ---
 ## 什么是所有权？
 

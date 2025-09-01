@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 控制流
+permalink: /doc/trpl/ch03-05-control-flow.html
 ---
 ## 控制流
 

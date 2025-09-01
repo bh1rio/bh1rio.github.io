@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 函数
+permalink: /doc/trpl/ch03-03-how-functions-work.html
 ---
 ## 函数
 

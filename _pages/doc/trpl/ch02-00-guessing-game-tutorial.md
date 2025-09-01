@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 编写一个猜数字游戏
+permalink: /doc/trpl/ch02-00-guessing-game-tutorial.html
 ---
 # 编写一个猜数字游戏
 
@@ -28,7 +28,13 @@ $ cd guessing_game
 <span class="filename">文件名：Cargo.toml</span>
 
 ```toml
-{{#include ../listings/ch02-guessing-game-tutorial/no-listing-01-cargo-new/Cargo.toml}}
+[package]
+name = "guessing_game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
 ```
 
 正如第一章那样，`cargo new` 生成了一个 “Hello, world!” 程序。查看 _src/main.rs_ 文件：
@@ -36,13 +42,21 @@ $ cd guessing_game
 <span class="filename">文件名：src/main.rs</span>
 
 ```rust
-{{#rustdoc_include ../listings/ch02-guessing-game-tutorial/no-listing-01-cargo-new/src/main.rs}}
+fn main() {
+    println!("Hello, world!");
+}
+
 ```
 
 现在使用 `cargo run` 命令，一步完成 “Hello, world!” 程序的编译和运行：
 
 ```console
-{{#include ../listings/ch02-guessing-game-tutorial/no-listing-01-cargo-new/output.txt}}
+$ cargo run
+   Compiling guessing_game v0.1.0 (file:///projects/guessing_game)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.08s
+     Running `target/debug/guessing_game`
+Hello, world!
+
 ```
 
 当你需要在项目中快速迭代时，`run` 命令就能派上用场，正如我们在这个游戏项目中做的，在下一次迭代之前快速测试每一次迭代。
@@ -57,8 +71,39 @@ $ cd guessing_game
 
 <span class="file-name">文件名：src/main.rs</span>
 
-```rust,ignore
-{{#rustdoc_include ../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:all}}
+```rust
+// ANCHOR: all
+// ANCHOR: io
+use std::io;
+// ANCHOR_END: io
+
+// ANCHOR: main
+fn main() {
+    // ANCHOR_END: main
+    // ANCHOR: print
+    println!("Guess the number!");
+
+    println!("Please input your guess.");
+    // ANCHOR_END: print
+
+    // ANCHOR: string
+    let mut guess = String::new();
+    // ANCHOR_END: string
+
+    // ANCHOR: read
+    io::stdin()
+        .read_line(&mut guess)
+        // ANCHOR_END: read
+        // ANCHOR: expect
+        .expect("Failed to read line");
+    // ANCHOR_END: expect
+
+    // ANCHOR: print_guess
+    println!("You guessed: {guess}");
+    // ANCHOR_END: print_guess
+}
+// ANCHOR: all
+
 ```
 
 <figcaption>示例 2-1：获取用户猜测并打印的代码</figcaption>

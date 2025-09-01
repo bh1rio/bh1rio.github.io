@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 数据类型
+permalink: /doc/trpl/ch03-02-data-types.html
 ---
 ## 数据类型
 

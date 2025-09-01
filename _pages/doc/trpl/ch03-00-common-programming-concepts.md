@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 常见编程概念
+permalink: /doc/trpl/ch03-00-common-programming-concepts.html
 ---
 # 常见编程概念
 

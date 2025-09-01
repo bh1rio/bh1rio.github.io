@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 变量和可变性
+permalink: /doc/trpl/ch03-01-variables-and-mutability.html
 ---
 ## 变量和可变性
 

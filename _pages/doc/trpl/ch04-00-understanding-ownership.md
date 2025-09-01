@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 认识所有权
+permalink: /doc/trpl/ch04-00-understanding-ownership.html
 ---
 # 认识所有权
 

@@ -1,7 +1,7 @@
 ---
 layout: framework
-title: 简介
-permalink: /doc/trpl/ch00-00-introduction.html
+title: 注释
+permalink: /doc/trpl/ch03-04-comments.html
 ---
 ## 注释
 
