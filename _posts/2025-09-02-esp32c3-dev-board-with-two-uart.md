@@ -1,6 +1,6 @@
 ---
 title: "一个有意思的ESP32C3开发板"
-date: 2025-09-02 20:14:00 8000
+date: 2025-09-02
 layout: post
 categories: 技术
 tags: esp32 micropython
