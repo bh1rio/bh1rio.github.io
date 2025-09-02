@@ -24,9 +24,9 @@ permalink: /doc/make/index.html
 - [2 Makefile简介](ch02-00-an-introduction-to-makefiles.html)
   - [2.1 规则是什么样子的](ch02-01-rule-introduction.html)
   - [2.2 一个简单的 Makefile](ch02-02-simple-makefile.html)
-  - [2.3 How make Processes a Makefile](ch02-03-how-make-works.html)
-  - [2.4 Variables Make Makefiles Simpler](ch02-04-variables-simplify.html)
-  - [2.5 Letting make Deduce the Recipes](ch02-05-make-deduces.html)
+  - [2.3 make如何处理一个Makefile文件](ch02-03-how-make-works.html)
+  - [2.4 变量让Makefile更简单](ch02-04-variables-simplify.html)
+  - [2.5 让make推导配方](ch02-05-make-deduces.html)
   - [2.6 Another Style of Makefile](ch02-06-combine-by-prerequisite.html)
   - [2.7 Rules for Cleaning the Directory](ch02-07-cheanup.html)
 - 3 编写Makefile文件
@@ -78,7 +78,7 @@ permalink: /doc/make/index.html
     - 5.4.1 Disabling Parallel Execution
     - 5.4.2 Output During Parallel Execution
     - 5.4.3 Input During Parallel Execution
-  - 5.5 Errors in Recipes
+  - [5.5 Errors in Recipes](ch05-05-errors.html)
   - 5.6 Interrupting or Killing make
   - 5.7 Recursive Use of make
     - 5.7.1 How the MAKE Variable Works
@@ -130,14 +130,14 @@ permalink: /doc/make/index.html
   - 8.15 The guile Function
 - 9 How to Run make
   - 9.1 Arguments to Specify the Makefile
-  - 9.2 Arguments to Specify the Goals
+  - [9.2 Arguments to Specify the Goals](ch09-02-goals.html)
   - 9.3 Instead of Executing Recipes
   - 9.4 Avoiding Recompilation of Some Files
   - 9.5 Overriding Variables
   - 9.6 Testing the Compilation of a Program
   - 9.7 Temporary Files
   - 9.8 Summary of Options
-- 10 Using Implicit Rules
+- [10 Using Implicit Rules](ch10-00-implicit-rules.html)
   - 10.1 Using Implicit Rules
   - 10.2 Catalogue of Built-In Rules
   - 10.3 Variables Used by Implicit Rules

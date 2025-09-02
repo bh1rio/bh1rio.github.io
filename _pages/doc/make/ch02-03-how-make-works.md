@@ -1,27 +1,27 @@
 ---
 layout: framework
-title: 2.3 How make Processes a Makefile
+title: 2.3 make如何处理一个Makefile文件
 permalink: /doc/make/ch02-03-how-make-works.html
 ---
-## 2.3 How make Processes a Makefile
+## 2.3 make如何处理一个Makefile文件
 
-By default, make starts with the first target (not targets whose names start with ‘.’ unless they also contain one or more ‘/’). This is called the default goal. (Goals are the targets that make strives ultimately to update. You can override this behavior using the command line (see [Arguments to Specify the Goals](https://www.gnu.org/software/make/manual/html_node/Goals.html)) or with the .DEFAULT_GOAL special variable (see [Other Special Variables](https://www.gnu.org/software/make/manual/html_node/Special-Variables.html)).
+默认情况下，make 从第一个目标开始（名称以 ‘.’ 开头的目标除外，除非它们还包含一个或多个 ‘/’）。这被称为*默认目标*。（目标 是 make 最终努力要更新的目标。）你可以使用命令行（参见
+[指定目标的参数](ch09-02-goals.html)）或 `.DEFAULT_GOAL` 特殊变量（参见[其他特殊变量](ch06-14-special-variables.html)）来覆盖此行为。
 
-In the simple example of the previous section, the default goal is to update the executable program edit; therefore, we put that rule first.
+在上一节的简单示例中，默认目标是更新可执行程序edit；因此，我们将该规则放在首位。
 
-Thus, when you give the command:
+因此，当你执行如下命令时：
 
 ```
 make
 ```
 
-make reads the makefile in the current directory and begins by processing the first rule. In the example, this rule is for relinking edit; but before make can fully process this rule, it must process the rules for the files that edit depends on, which in this case are the object files. Each of these files is processed according to its own rule. These rules say to update each ‘.o’ file by compiling its source file. The recompilation must be done if the source file, or any of the header files named as prerequisites, is more recent than the object file, or if the object file does not exist.
+make 会读取当前目录下的 makefile，并从处理第一条规则开始。在这个示例中，这条规则是用于重新链接 edit；但在 make 能够完全处理这条规则之前，它必须先处理 edit 所依赖的文件的规则，在这种情况下，这些文件就是目标文件。每个目标文件都会根据其自身的规则进行处理。这些规则规定，通过编译其源文件来更新每个 ‘.o’ 文件。如果源文件，或者任何作为先决条件列出的头文件，比目标文件更新，或者目标文件不存在，就必须进行重新编译。
 
-The other rules are processed because their targets appear as prerequisites of the goal. If some other rule is not depended on by the goal (or anything it depends on, etc.), that rule is not processed, unless you tell make to do so (with a command such as make clean).
+其他规则会被处理，因为它们的目标作为目标的先决条件出现。如果某个其他规则不被该目标（或该目标所依赖的任何事物等）所依赖，那么该规则不会被处理，除非你告诉make这样做（使用诸如make clean之类的命令）。
 
-Before recompiling an object file, make considers updating its prerequisites, the source file and header files. This makefile does not specify anything to be done for them—the ‘.c’ and ‘.h’ files are not the targets of any rules—so make does nothing for these files. But make would update automatically generated C programs, such as those made by Bison or Yacc, by their own rules at this time.
+在重新编译目标文件之前，make会考虑更新其依赖项，即源文件和头文件。此makefile没有指定要对它们执行的任何操作——“.c”和“.h”文件不是任何规则的目标——因此make不会对这些文件执行任何操作。但是，make会在此刻通过其自身的规则来更新自动生成的C程序，例如由Bison或Yacc生成的那些程序。
 
-After recompiling whichever object files need it, make decides whether to relink edit. This must be done if the file edit does not exist, or if any of the object files are newer than it. If an object file was just recompiled, it is now newer than edit, so edit is relinked.
+在重新编译任何需要的目标文件后，make 会决定是否重新链接 edit。如果文件 edit 不存在，或者任何目标文件比它新，就必须执行重新链接。如果某个目标文件刚刚被重新编译，它现在就会比 edit 新，因此 edit 会被重新链接。
 
-Thus, if we change the file insert.c and run make, make will compile that file to update insert.o, and then link edit. If we change the file command.h and run make, make will recompile the object files kbd.o, command.o and files.o and then link the file edit.
-
+因此，如果我们修改insert.c文件并运行make，make会编译该文件以更新insert.o，然后链接edit。如果我们修改command.h文件并运行make，make会重新编译目标文件kbd.o、command.o和files.o，然后链接edit文件。

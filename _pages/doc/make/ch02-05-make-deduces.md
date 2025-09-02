@@ -1,15 +1,15 @@
 ---
 layout: framework
-title: 2.5 Letting make Deduce the Recipes
+title: 2.5 让make推导配方
 permalink: /doc/make/ch02-05-make-deduces.html
 ---
-## 2.5 Letting make Deduce the Recipes
+## 2.5 让make推导配方
 
-It is not necessary to spell out the recipes for compiling the individual C source files, because make can figure them out: it has an implicit rule for updating a ‘.o’ file from a correspondingly named ‘.c’ file using a ‘cc -c’ command. For example, it will use the recipe ‘cc -c main.c -o main.o’ to compile main.c into main.o. We can therefore omit the recipes from the rules for the object files. See [Using Implicit Rules](https://www.gnu.org/software/make/manual/html_node/Implicit-Rules.html).
+不必详细说明编译各个C源文件的规则，因为make工具能够自行推断出来：它有一条隐式规则，即使用“cc -c”命令从同名的“.c”文件更新“.o”文件。例如，它会使用“cc -c main.c -o main.o”这条规则将main.c编译成main.o。因此，我们可以在目标文件的规则中省略这些规则。参见[使用隐式规则](ch10-00-implicit-rules.html)。
 
-When a ‘.c’ file is used automatically in this way, it is also automatically added to the list of prerequisites. We can therefore omit the ‘.c’ files from the prerequisites, provided we omit the recipe.
+当一个‘.c’文件以这种方式被自动使用时，它也会被自动添加到先决条件列表中。因此，只要我们省略规则，就可以从先决条件中省略‘.c’文件。
 
-Here is the entire example, with both of these changes, and a variable objects as suggested above:
+以下是包含这两处修改以及如上文所建议的变量objects的完整示例：
 
 ```
 objects = main.o kbd.o command.o display.o \
@@ -32,7 +32,6 @@ clean :
         rm edit $(objects)
 ```
 
-This is how we would write the makefile in actual practice. (The complications associated with ‘clean’ are described elsewhere. See [Phony Targets](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html), and [Errors in Recipes](https://www.gnu.org/software/make/manual/html_node/Errors.html).)
+这就是我们在实际操作中编写Makefile的方式。（与“clean”相关的复杂情况在其他地方有描述。参见[伪目标](ch04-06-phony-targets.html)和[配方中的错误](ch05-05-errors.html)。）
 
-Because implicit rules are so convenient, they are important. You will see them used frequently.
-
+由于隐式规则非常便捷，所以它们很重要。你会经常看到它们被使用。
