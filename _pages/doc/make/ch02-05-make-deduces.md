@@ -11,7 +11,7 @@ permalink: /doc/make/ch02-05-make-deduces.html
 
 以下是包含这两处修改以及如上文所建议的变量objects的完整示例：
 
-```
+```makefile
 objects = main.o kbd.o command.o display.o \
           insert.o search.o files.o utils.o
 

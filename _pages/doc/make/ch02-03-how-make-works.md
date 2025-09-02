@@ -12,7 +12,7 @@ permalink: /doc/make/ch02-03-how-make-works.html
 
 因此，当你执行如下命令时：
 
-```
+```bash
 make
 ```
 

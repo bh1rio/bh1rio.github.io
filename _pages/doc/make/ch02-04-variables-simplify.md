@@ -28,7 +28,7 @@ objects = main.o kbd.o command.o display.o \
 
 以下是当你为目标文件使用变量时，完整的简单makefile的样子：
 
-```
+```makefile
 objects = main.o kbd.o command.o display.o \
           insert.o search.o files.o utils.o
 
