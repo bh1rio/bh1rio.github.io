@@ -31,11 +31,11 @@ permalink: /doc/make/index.html
   - [2.5 让make推导配方](ch02-05-make-deduces.html)
   - [2.6 Makefile的另一种风格](ch02-06-combine-by-prerequisite.html)
   - [2.7 清理目录的规则](ch02-07-cheanup.html)
-- 3 编写Makefile文件
-  - 3.1 What Makefiles Contain
+- [3 编写Makefile文件](ch03-00-makefiles.html)
+  - [3.1 What Makefiles Contain](ch03-01-makefiles-contains.html)
     - [3.1.1 Splitting Long Lines](ch03-01-01-splitting-lines.html)
-  - 3.2 What Name to Give Your Makefile
-  - 3.3 Including Other Makefiles
+  - [3.2 What Name to Give Your Makefile](ch03-02-makefile-names.html)
+  - [3.3 Including Other Makefiles](ch03-03-include.html)
   - 3.4 The Variable MAKEFILES
   - 3.5 How Makefiles Are Remade
   - 3.6 Overriding Part of Another Makefile
