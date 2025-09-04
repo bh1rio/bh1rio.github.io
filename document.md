@@ -6,7 +6,7 @@ title: 文档
 ## 构建工具
 
 * [GNU make 手册](/doc/make/index.html)
-* [cmake](doc/cmake/index.html)
+* [CMake Tutorial](doc/cmake/index.html)
 
 ## Python
 
