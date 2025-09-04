@@ -6,6 +6,8 @@ permalink: /doc/make/index.html
 
 # GNU make 手册
 
+原文地址: <https://www.gnu.org/software/make/manual/html_node/index.html>
+
 本文档介绍了GNU make工具，该工具能自动确定大型程序中哪些部分需要重新编译，并发出重新编译它们的命令。
 
 这是2023年2月26日最后更新的0.77版《GNU Make手册》，适用于GNU make 4.4.1版本。
