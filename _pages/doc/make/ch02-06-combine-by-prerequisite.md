@@ -1,13 +1,13 @@
 ---
 layout: framework
-title: 2.6 Another Style of Makefile
+title: 2.6 Makefile的另一种风格
 permalink: /doc/make/ch02-06-combine-by-prerequisite.html
 ---
-## 2.6 Another Style of Makefile
+## 2.6 Makefile的另一种风格
 
-When the objects of a makefile are created only by implicit rules, an alternative style of makefile is possible. In this style of makefile, you group entries by their prerequisites instead of by their targets. Here is what one looks like:
+当一个makefile的目标文件仅通过隐式规则创建时，另一种风格的makefile是可行的。在这种风格的makefile中，你是按依赖项而非目标来对条目进行分组的。下面是一个示例：
 
-```
+```makefile
 objects = main.o kbd.o command.o display.o \
           insert.o search.o files.o utils.o
 
@@ -19,6 +19,6 @@ kbd.o command.o files.o : command.h
 display.o insert.o search.o files.o : buffer.h
 ```
 
-Here defs.h is given as a prerequisite of all the object files; command.h and buffer.h are prerequisites of the specific object files listed for them.
+这里，defs.h 被指定为所有目标文件的先决条件；command.h 和 buffer.h 是为其列出的特定目标文件的先决条件。
 
-Whether this is better is a matter of taste: it is more compact, but some people dislike it because they find it clearer to put all the information about each target in one place.
+这种方式是否更好取决于个人喜好：它更简洁，但有些人不喜欢，因为他们觉得将每个目标的所有信息放在一个地方会更清晰。

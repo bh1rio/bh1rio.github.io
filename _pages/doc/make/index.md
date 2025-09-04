@@ -29,8 +29,8 @@ permalink: /doc/make/index.html
   - [2.3 make如何处理一个Makefile文件](ch02-03-how-make-works.html)
   - [2.4 变量让Makefile更简单](ch02-04-variables-simplify.html)
   - [2.5 让make推导配方](ch02-05-make-deduces.html)
-  - [2.6 Another Style of Makefile](ch02-06-combine-by-prerequisite.html)
-  - [2.7 Rules for Cleaning the Directory](ch02-07-cheanup.html)
+  - [2.6 Makefile的另一种风格](ch02-06-combine-by-prerequisite.html)
+  - [2.7 清理目录的规则](ch02-07-cheanup.html)
 - 3 编写Makefile文件
   - 3.1 What Makefiles Contain
     - [3.1.1 Splitting Long Lines](ch03-01-01-splitting-lines.html)
