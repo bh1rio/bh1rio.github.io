@@ -36,12 +36,12 @@ permalink: /doc/make/index.html
     - [3.1.1 Splitting Long Lines](ch03-01-01-splitting-lines.html)
   - [3.2 What Name to Give Your Makefile](ch03-02-makefile-names.html)
   - [3.3 Including Other Makefiles](ch03-03-include.html)
-  - 3.4 The Variable MAKEFILES
-  - 3.5 How Makefiles Are Remade
-  - 3.6 Overriding Part of Another Makefile
-  - 3.7 How make Reads a Makefile
-  - 3.8 How Makefiles Are Parsed
-  - 3.9 Secondary Expansion
+  - [3.4 The Variable MAKEFILES](ch03-04-makefiles-variable.html)
+  - [3.5 How Makefiles Are Remade](ch03-05-remaking-makefiles.html)
+  - [3.6 Overriding Part of Another Makefile](ch03-06-overriding-makefiles.html)
+  - [3.7 How make Reads a Makefile](ch03-07-reading-makefiles.html)
+  - [3.8 How Makefiles Are Parsed](ch03-08-parsing-makefiles.html)
+  - [3.9 Secondary Expansion](ch03-09-secondary-expansion.html)
 - [4 编写规则](ch04-00-rules.html)
   - 4.1 Rule Example
   - 4.2 Rule Syntax
