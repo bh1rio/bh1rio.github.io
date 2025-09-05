@@ -27,7 +27,7 @@ title: 文档
 
 ### Espressif
 
-* [ESP32编程：使用乐鑫IDF]
+* [ESP32编程：使用乐鑫IDF](/doc/esp32-in-idf/index.html)
 * [ESP32编程：使用Arduino]
 * [ESP32编程：使用Micropython]
 * [ESP32编程：使用nanoframework]
