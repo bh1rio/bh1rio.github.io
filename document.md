@@ -27,10 +27,16 @@ title: 文档
 
 ### Espressif
 
+* [ESP32编程：使用乐鑫IDF]
+* [ESP32编程：使用Arduino]
+* [ESP32编程：使用Micropython]
+* [ESP32编程：使用nanoframework]
 * [The Rust on ESP Book 简体中文版](https://narukara.github.io/rust-on-esp-book-zh-cn/)
 * [Embedded Rust on Espressif 简体中文版](https://narukara.github.io/std-training-zh-cn/)
 * [Embedded Rust (no_std) on Espressif](https://docs.espressif.com/projects/rust/no_std-training/)
 
-### RaspberryPi
+### Raspberry Pi
 
 * [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/blob/master/README.CN.md)
+
+### Raspberry Pi Pico
