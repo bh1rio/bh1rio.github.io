@@ -9,7 +9,7 @@ permalink: /doc/esp32-in-idf/index.html
 **目录**
 
 - [第1章 在我们开始ESP32之前](ch01-before-we-begin.html)
-- 第2章 开始进行
+- [第2章 开始进行](ch02-getting-started.html)
 - 第3章 GPIO入门指南
 - 第4章 简单输出
 - 第5章 一些电子元件

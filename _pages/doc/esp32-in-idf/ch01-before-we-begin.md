@@ -1,6 +1,6 @@
 ---
 layout: framework
-title: 1 make 概述
+title: 第1章 在我们开始ESP32之前
 permalink: /doc/esp32-in-idf/ch01-before-we-begin.html
 ---
 
